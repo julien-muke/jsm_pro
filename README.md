@@ -1,6 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Build insanely fast websites with Next.js 13!.
+![Screenshot](Screenshot.png)
+
+# Introduction
+Build the official jsmastery.pro website and learn how to build insanely fast websites with Next.js 13!.
+
+ Learn from:
+  ⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
+
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
