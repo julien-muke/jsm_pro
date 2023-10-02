@@ -1,8 +1,14 @@
 # Build insanely fast websites with Next.js 13!.
 ![Screenshot](Screenshot.png)
 
-# Introduction
+## Introduction
 Build the official jsmastery.pro website and learn how to build insanely fast websites with Next.js 13!.
+
+## Implementation:
+- Prefetching
+- Incremental rendering
+- Search engine optimization
+- Handling the initial page load
 
  Learn from:
   ⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
